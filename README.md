@@ -9,4 +9,4 @@
 ----
 ### Spotlight video
 
-[![Video Label](https://www.bilibili.com/video/BV1z5411h7nT)
+[![Video Label](https://img.youtube.com/vi/Yp0HiKvV8F4/0.jpg)](https://www.bilibili.com/video/BV1z5411h7nT)
