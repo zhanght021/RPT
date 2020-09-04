@@ -9,7 +9,7 @@
 ----
 ### Spotlight video
 
-[![Video Label](https://i0.hdslb.com/bfs/album/1ea9e961083d81f7fed53d22ed8698a1ac2307f9.jpg@518w_1e_1c.jpg)](https://www.bilibili.com/video/BV1z5411h7nT)
+[![Video Label](https://i0.hdslb.com/bfs/album/1ea9e961083d81f7fed53d22ed8698a1ac2307f9.jpg@518w_1e_1c.jpg)](https://www.bilibili.com/video/BV1Yt4y1S7Mp)
 
 
 ----
