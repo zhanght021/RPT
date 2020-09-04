@@ -3,5 +3,6 @@
 
 ## News
 - :trophy: **We are the Winner of VOT-2020 Short-Term challenge**
+- :trophy: **We get both 1st on the public and sequestered benchmark dataset of the VOT2020 Short-Term challenge**
 
 
