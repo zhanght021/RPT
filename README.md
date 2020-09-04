@@ -7,7 +7,7 @@
 ## News
 - :trophy: **We are the Winner of VOT-2020 Short-Term challenge**
 - :trophy: **We get both 1st on the public and sequestered benchmark dataset of the VOT2020 Short-Term challenge**
-- :sunny::sunny:**Our [presentation](https://github.com/zhanght021/RPT/blob/master/VOT-ST2020%2BWinners%2BPresentation.pdf) has been uploaded**
+- :sunny::sunny:**Our [VOT2020-ST Winner presentation](https://github.com/zhanght021/RPT/blob/master/VOT-ST2020%2BWinners%2BPresentation.pdf) has been uploaded**
 
 
 ----
