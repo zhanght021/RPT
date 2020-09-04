@@ -6,3 +6,7 @@
 - :trophy: **We get both 1st on the public and sequestered benchmark dataset of the VOT2020 Short-Term challenge**
 
 
+----
+### Spotlight video
+
+[![Video Label](https://www.bilibili.com/video/BV1z5411h7nT)
