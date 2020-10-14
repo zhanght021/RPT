@@ -1,7 +1,7 @@
 # RPT: Learning Point Set Representation for Siamese Visual Tracking[[ECCVW2020](https://arxiv.org/abs/2008.03467)]
 
 
-## :sunny: This code is only support the offline version of RPT, the absolute RPT code will come soon!
+## :sunny: Currently, this code only supports the offline version of RPT, the absolute RPT code will come soon!
 
 
 ## News
