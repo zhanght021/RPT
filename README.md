@@ -18,7 +18,7 @@
 
 ---
 ## Models
-| Dataset | A | R | EAO | Config. Filename |
+| Dataset | pattern | A | R | EAO | Config. Filename |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | VOT2018 | offline | 0.610 | 0.150 | 0.497 | config_vot2018_offline.yaml |
 | VOT2019 | offline | 0.598 | 0.261 | 0.409 | config_vot2019_offline.yaml |
