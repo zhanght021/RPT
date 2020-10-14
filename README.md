@@ -43,3 +43,14 @@ python test.py \
        --snapshot ./snapshot/siamreppoints.model \  #model path
        --dataset VOT2018 \  #dataset name
        --config ./experiments/siamreppoints/config_vot2018_offline.yaml  #config file 
+```
+
+
+```bash
+cd siamreppoints/tools
+python eval.py \
+       --tracker_path ./results \  #result path
+       --dataset VOT2018 \  #dataset name
+       --tracker_prefix 'siam' \  # tracker_name
+       --num 1  # number thread to eval
+```
