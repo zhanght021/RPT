@@ -19,9 +19,11 @@
 ---
 ## Models
 | Dataset | A | R | EAO | Config. Filename |
-|:---:|:---:|:---:|:---:|:---:|
-| VOT2018 |0.610 | 0.150 | 0.497| config_vot2018_offline.yaml |
-| VOT2019 | 0.598 | 0.261 | 0.409 | config_vot2019_offline.yaml |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| VOT2018 | offline | 0.610 | 0.150 | 0.497 | config_vot2018_offline.yaml |
+| VOT2019 | offline | 0.598 | 0.261 | 0.409 | config_vot2019_offline.yaml |
+| VOT2018 | online | 0.629 | 0.103 | 0.510 | coming soon |
+| VOT2019 | online | 0.623 | 0.186 | 0.417 | coming soon |
 
 ----
 ## Abstract
