@@ -35,3 +35,11 @@ Please find installation instructions in INSTALL.md
 
 ## Quick Start: Using siamreppoints
 
+Download models[()] and put the siamreppoints.model in the correct directory in experiments
+
+```bash
+cd siamreppoints/tools
+python test.py \
+       --snapshot ./snapshot/siamreppoints.model \  #model path
+       --dataset VOT2018 \  #dataset name
+       --config ./experiments/siamreppoints/config_vot2018_offline.yaml  #config file 
