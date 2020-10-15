@@ -25,7 +25,7 @@
 | VOT2018 | online | 0.629 | 0.103 | 0.510 | :smile:coming soon:smile: |
 | VOT2019 | online | 0.623 | 0.186 | 0.417 | :smile:coming soon:smile: |
 
-- The pretrained model can be downloaded [[here]()].
+- The pretrained model can be downloaded [[here](https://pan.baidu.com/s/18EXDr4DoeD89Vasuf8WCXQ)], extraction code: g4ac.
 - The raw results can be downloaded [[here](https://pan.baidu.com/s/1E2ZsLVeYDfopmoWpU_p2YQ)], extraction code: ktxc.
 
 ----
