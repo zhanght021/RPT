@@ -25,6 +25,9 @@
 | VOT2018 | online | 0.629 | 0.103 | 0.510 | :smile:coming soon:smile: |
 | VOT2019 | online | 0.623 | 0.186 | 0.417 | :smile:coming soon:smile: |
 
+The pretrained model can be downloaded [[here]()]
+The raw results can be downloaded [[here](https://pan.baidu.com/s/1E2ZsLVeYDfopmoWpU_p2YQ)], extraction code: ktxc.
+
 ----
 ## Abstract
 While remarkable progress has been made in robust visual tracking, accurate target state estimation still remains a highly challenging problem. In this paper, we argue that this issue is closely related to the prevalent bounding box representation, which provides only a coarse spatial extent of object. Thus an effcient visual tracking framework is proposed to accurately estimate the target state with a finer representation as a set of representative points. The point set is trained to indicate the semantically and geometrically significant positions of target region, enabling more fine-grained localization and modeling of object appearance. We further propose a multi-level aggregation strategy to obtain detailed structure information by fusing hierarchical convolution layers. Extensive experiments on several challenging benchmarks including OTB2015, VOT2018, VOT2019 and GOT-10k demonstrate that our method achieves new state-of-the-art performance while running at over 20 FPS.
@@ -36,7 +39,7 @@ Please find installation instructions in INSTALL.md
 ---
 ## Quick Start: Using siamreppoints
 
-Download models[()] and put the siamreppoints.model in the correct directory in experiments
+Download pretrained models and put the siamreppoints.model in the correct directory in experiments
 
 ```bash
 cd siamreppoints/tools
