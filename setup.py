@@ -22,12 +22,5 @@ setup(
     ext_modules=cythonize(ext_modules)
 )
 
-import glob
-import os
-import torch
-import setuptools import find_packages
-import setuptools import setup
-from torch.utils.cpp_extension import CUDA_HOME
-from torch.utils.cpp_extension import CppExtension
-from torch.utils.cpp_extension import CUDAExtension
+
 
