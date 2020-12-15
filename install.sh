@@ -37,5 +37,6 @@ echo "***** build extensions *****"
 python setup.py build_ext --inplace
 
 echo "***** build extensions about DCN *****"
-python ./siamreppoints/setup.py build_ext --inplace
+cd siamreppoints
+python ./setup.py build_ext --inplace
 
