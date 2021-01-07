@@ -25,7 +25,7 @@
 | VOT2018 | online | 0.629 | 0.103 | 0.510 | :smile:coming soon:smile: |
 | VOT2019 | online | 0.623 | 0.186 | 0.417 | :smile:coming soon:smile: |
 
-- The pretrained model can be downloaded [[google](https://drive.google.com/file/d/1b9aynlUa4h1ju9Tir3xd6tT6dPzu40rN/view?usp=sharing)] or [[baidu](https://pan.baidu.com/s/18EXDr4DoeD89Vasuf8WCXQ)], extraction code: g4ac.
+- The pretrained model can be downloaded from [[google](https://drive.google.com/file/d/1b9aynlUa4h1ju9Tir3xd6tT6dPzu40rN/view?usp=sharing)] or [[baidu](https://pan.baidu.com/s/18EXDr4DoeD89Vasuf8WCXQ)], extraction code: g4ac.
 - The raw results can be downloaded [[here](https://pan.baidu.com/s/1fAovMOR8UAN46f5Dm-sa6A)], extraction code: mkbh.
 
 ----
