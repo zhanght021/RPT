@@ -45,7 +45,7 @@ def main():
     args.num = min(args.num, len(trackers))
 
     root = os.path.realpath(os.path.join(os.path.dirname(__file__),
-                            './test_datasets'))
+                            '../testing_datasets'))
     root = os.path.join(root, args.dataset)
     if 'OTB' in args.dataset:
         dataset = OTBDataset(args.dataset, root)
